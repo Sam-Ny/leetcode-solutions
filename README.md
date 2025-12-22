@@ -71,3 +71,8 @@ I’m **Sameer**, working toward data engineering roles and focused on:
 
 Thanks for stopping by! 🌟  
 Let’s connect and build something incredible.
+
+
+https://www.linkedin.com/in/sameer-nayak-202a01194/
+https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin
+
