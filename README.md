@@ -65,9 +65,7 @@ I’m **Sameer**, working toward data engineering roles and focused on:
 - Data Engineering fundamentals  
 - Problem‑solving and algorithmic thinking  
 
-### 📍 Topics Overview
-images/topics.png
-
+![Waving Octocat](https://octodex.github.com/images/welcometocat.png)
 ---
 
 Thanks for stopping by! 🌟  
