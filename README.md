@@ -9,7 +9,7 @@ All actual solution code is stored safely in a **private GitHub repository**, sy
 ## 📊 Coding Activity & Stats
 
 ### ⭐ Overall LeetCode Statistics
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&ext=contest)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sameernayak265?theme=dark&ext=contest)](https://leetcode.com/YOUR_USERNAME)
 
 ### 🔥 GitHub + LeetCode Heatmap
 *(Generated using Gitleet — export and save the image into the `images/` folder)*
@@ -21,14 +21,9 @@ All actual solution code is stored safely in a **private GitHub repository**, sy
 
 | Category             | Skills Gained |
 |---------------------|----------------|
-| **SQL / PL/SQL**    | Joins, Window functions, CTEs, Subqueries, Stored Procedures/Packages, Indexing, Performance tuning |
-| Arrays, Hashing     | Sliding window, prefix sums |
-| Two Pointers        | Fast/slow pointer logic |
-| Trees & Graphs      | DFS, BFS, recursion |
-| Dynamic Programming | Memoization, tabulation |
-| Greedy Algorithms   | Optimization strategies |
-| Binary Search       | Pattern-based solving |
-| Backtracking        | Structured search |
+| **SQL / PL/SQL**    | Joins, Window functions, CTEs, Subqueries, Stored Procedures/Packages, Indexing, Performance tuning
+
+I'll be adding more to above list gradually.
 
 > 🎯 **Current Focus:** Strengthening **SQL & PL/SQL** for data engineering roles and technical interviews.
 
@@ -60,13 +55,6 @@ I’m happy to discuss solutions or walk through my approach during interviews.
 
 ---
 
-## 📬 Want Access?
-
-If you're a recruiter, hiring manager,me@example.com  
-- 📁 **Access available upon request**
-
----
-
 ## ⭐ About Me
 
 I’m **Sameer**, working toward data engineering roles and focused on:
@@ -76,10 +64,6 @@ I’m **Sameer**, working toward data engineering roles and focused on:
 - Azure ecosystem  
 - Data Engineering fundamentals  
 - Problem‑solving and algorithmic thinking  
-
----
-
-## 📌 Bonus Visuals
 
 ### 📍 Topics Overview
 images/topics.png
