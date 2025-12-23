@@ -11,10 +11,6 @@ All actual solution code is stored safely in a **private GitHub repository**, sy
 ### ⭐ Overall LeetCode Statistics
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sameernayak265?theme=dark&ext=contest)](https://leetcode.com/sameernayak265)
 
-### 🔥 GitHub + LeetCode Heatmap
-*(Generated using Gitleet — export and save the image into the `images/` folder)*
-![Activity Heatmap](images/heatmap.png)
-
 ---
 
 ## 🧠 Topics I Practice Regularly
