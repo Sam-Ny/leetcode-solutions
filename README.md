@@ -9,7 +9,7 @@ All actual solution code is stored safely in a **private GitHub repository**, sy
 ## 📊 Coding Activity & Stats
 
 ### ⭐ Overall LeetCode Statistics
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sameernayak265?theme=dark&ext=contest)](https://leetcode.com/YOUR_USERNAME)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sameernayak265?theme=dark&ext=contest)](https://leetcode.com/sameernayak265)
 
 ### 🔥 GitHub + LeetCode Heatmap
 *(Generated using Gitleet — export and save the image into the `images/` folder)*
