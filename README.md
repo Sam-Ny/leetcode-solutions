@@ -44,8 +44,7 @@ This automation helps me maintain:
 LeetCode problems and solutions fall under content protection and copyright rules.  
 Keeping the code private helps avoid:
 - Copyright violations  
-- Plagiarism concerns  
-- Company laptop policy conflicts  
+- Plagiarism concerns
 
 I’m happy to discuss solutions or walk through my approach during interviews.
 
