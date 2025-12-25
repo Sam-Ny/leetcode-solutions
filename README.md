@@ -1,8 +1,8 @@
 
 # 🚀 LeetCode Practice Portfolio
 
-Welcome to my **LeetCode Practice Showcase** — a public summary of my problem‑solving journey, coding consistency, and algorithm mastery.  
-All actual solution code is stored safely in a **private GitHub repository**, synced automatically using LeetSync.
+Welcome to my **LeetCode Practice Showcase** — a summary of my problem‑solving journey, coding consistency, and algorithm mastery.  
+All actual solution code is synced automatically using LeetSync.
 
 ---
 
