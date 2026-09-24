@@ -1,4 +1,4 @@
-/* Write your PL/SQL query statement below */
+
 with cte as (
     select 
     student_id,
